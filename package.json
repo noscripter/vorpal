@@ -45,8 +45,8 @@
   },
   "dependencies": {
     "chalk": "^1.1.0",
-    "inquirer": "0.10.1",
-    "lodash": "^3.10.1",
+    "inquirer": "0.12.0",
+    "lodash": "^4.17.11",
     "log-update": "^1.0.2",
     "minimist": "^1.2.0",
     "native-promise-only": "^0.8.0-a",
